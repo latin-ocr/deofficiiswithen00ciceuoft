@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deofficiiswithen00ciceuoft_0293.png"; bbox 0 0 1546 2294; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 344 956 915 1107">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 344 956 915 1107">
+     <span class='ocr_line' id='line_1_1' title="bbox 344 956 915 996; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 344 958 543 996; x_wconf 88' lang='lat' dir='ltr'>CICERO</span> <span class='ocrx_word' id='word_1_2' title='bbox 574 957 650 995; x_wconf 92' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_3' title='bbox 679 956 915 995; x_wconf 90' lang='lat' dir='ltr'>OFFICIIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 520 1068 768 1107; baseline -0.004 -2"><span class='ocrx_word' id='word_1_4' title='bbox 520 1068 672 1107; x_wconf 90' lang='lat' dir='ltr'>BOOK</span> <span class='ocrx_word' id='word_1_5' title='bbox 705 1068 768 1105; x_wconf 91' lang='lat'>111</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 211 1187 1077 1300">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 211 1187 1077 1300">
+     <span class='ocr_line' id='line_1_3' title="bbox 211 1187 1077 1228; baseline -0.002 -1"><span class='ocrx_word' id='word_1_6' title='bbox 211 1189 325 1228; x_wconf 80' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_7' title='bbox 355 1187 629 1226; x_wconf 91' lang='lat' dir='ltr'>CONFLICT</span> <span class='ocrx_word' id='word_1_8' title='bbox 660 1187 930 1225; x_wconf 92' lang='lat' dir='ltr'>BETWEEN</span> <span class='ocrx_word' id='word_1_9' title='bbox 960 1188 1077 1225; x_wconf 90' lang='lat' dir='ltr'>THE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 212 1259 1076 1300; baseline -0.002 0"><span class='ocrx_word' id='word_1_10' title='bbox 212 1259 390 1300; x_wconf 85' lang='lat' dir='ltr'>RIGHT</span> <span class='ocrx_word' id='word_1_11' title='bbox 431 1260 551 1298; x_wconf 94' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_12' title='bbox 593 1260 711 1298; x_wconf 92' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_13' title='bbox 752 1260 1076 1298; x_wconf 91' lang='lat' dir='ltr'>EXPEDIENT</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
